@@ -1,0 +1,368 @@
+body {
+    background-color: white;
+    margin: 0%;
+    width: 99.859%;
+}
+
+header {
+    border-radius: 15px 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin-top: 0px;
+    height: 95px;
+    background-image: linear-gradient(to right, black, #3e3e3e);
+    box-shadow: 0px 5px 20px 5px rgb(189, 189, 189);
+}
+
+.mylogo {
+    float: left;
+}
+
+h1 {
+    margin-top: 30px;
+    margin-left: 31px;
+    margin-right: 0px;
+    text-align: left;
+    font-size: 160%;
+    font-family: Copperplate Gothic;
+    color: white;
+}
+
+.navigation {
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+    font-family: Copperplate Gothic;
+    font-size: 100%;
+    overflow: hidden;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+
+li {
+    padding: 10px;
+    margin-right: 25px;
+    float: left;
+
+}
+
+li a {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover {
+    font-weight: bold;
+}
+
+li a.active {
+    font-weight: bold;
+}
+
+.container2 {
+    background-image: url("arts.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    left: 0px;
+}
+
+.narappa img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.rushmika2 img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.priyanka img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.pspk img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.savitri img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+.fravalika img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.virat2 img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.virushka img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.sushanth img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.damon img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.jayyanth img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.joker img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.dobbi img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.clgbech img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.rushmika1 img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+
+.illusion img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.parrot img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.skull img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.keerthi img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+.virat1 img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+.ntr img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 800px;
+    width: 550px;
+}
+
+
+.revolt img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 180px;
+    height: 435px;
+    width: 900px;
+}
+
+.covid img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 180px;
+    height: 435px;
+    width: 900PX;
+}
+
+.house img {
+    border: 25px solid #3e3e3e;
+    margin-top: 20px;
+    margin-left: 180px;
+    height: 435px;
+    width: 900px;
+
+}
+
+
+
+.homepageintro {
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 32px;
+    background-color: white;
+    color: black;
+    font-family: Copperplate Gothic;
+    font-size: 200%;
+    width: 800px;
+    height: 35px;
+    margin-left: 225px;
+    margin-right: 600px;
+    border-top: 1.5px solid rgb(222, 222, 222);
+    border-bottom: 1.5px solid rgb(222, 222, 222);
+}
+
+.workpageintro {
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 32px;
+    background-color: white;
+    color: black;
+    font-family: Copperplate Gothic;
+    font-size: 200%;
+    width: 350px;
+    height: 35px;
+    margin-left: 475px;
+    margin-right: 600px;
+    border-top: 1.5px solid rgb(222, 222, 222);
+    border-bottom: 1.5px solid rgb(222, 222, 222);
+}
+
+footer {
+    border-radius: 15px 50px;
+    background-image: linear-gradient(to right, black, #3e3e3e);
+    width: 100%;
+    left: 0;
+    margin-bottom: 0px;
+    right: 0;
+    bottom: 0;
+    margin-top: 27px;
+    height: 200px;
+    border-top: 0.001px solid grey;
+}
+
+footer p {
+    font-size: 130%;
+    font-family: Copperplate Gothic;
+    text-align: center;
+    color: white;
+    margin-top: 55px;
+    margin-bottom: 5px;
+}
+
+footer p2 {
+    font-size: 100%;
+    font-family: Copperplate Gothic;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    margin-left: 586px;
+
+}
+
+.fa {
+    padding: 20px;
+    width: 30px;
+    margin: 5px 2px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 70px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-google {
+    color: white;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.fa-snapchat-ghost {
+    color: white;
+}
+
+.socialmediacontainer {
+    border-top: 1px solid white;
+    margin-left: 517px;
+    width: 240px;
+    border-bottom: 1px solid white;
+}
